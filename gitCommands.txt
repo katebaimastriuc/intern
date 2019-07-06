@@ -1,3 +1,13 @@
 git --help - a helpfull command :)
 
 
+Setup and branch management Git commands
+  
+init,fork - please check what do these commans do and explain them
+
+git clone - The "clone" command downloads an existing Git repository to your local computer
+
+git checkout - checkout command lets you navigate between the branches created by git branch
+
+git branch - A branch represents an independent line of development. 
+
