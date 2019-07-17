@@ -1,13 +1,30 @@
 git --help - a helpfull command :)
 
+cd 
 
-Setup and branch management Git commands
-  
-init,fork - please check what do these commans do and explain them
+Setup and branch management   
+init,clone, checkout, branch, fork 
 
-git clone - The "clone" command downloads an existing Git repository to your local computer
+Modify
+add, delete, rename, commit, merge, push, pull
 
-git checkout - checkout command lets you navigate between the branches created by git branch
+Get information
+status, diff, log
 
-git branch - A branch represents an independent line of development. 
+init
+clone
+status
+add
+checkout
+commit 
+log  
+remote  
+push
+pull
+diff
+merge
+stash
+
+
+gitk - a visual tool which displays the history
 
